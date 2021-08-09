@@ -5,10 +5,10 @@
 Nice to meet you! I'm currently a Computing and Financial Management Student 💻 @ UWaterloo. I love digital art & am interested in game dev! I'm always learning something new :)
 
 »»————- ♡ to-do list | 2021 ♡ ————-««
-
- 🍒 finish operation v2
  
  🍒 ramp up on javascript
+ 
+ 🍒 learn react.js
  
  🍒 create one-year anni website for boyfriend (i hope he doesn't see this! ;))
 
