@@ -6,9 +6,7 @@ Nice to meet you! I'm currently a Computing and Financial Management Student �
 
 »»————- ♡ to-do list | 2021 ♡ ————-««
  
- 🍒 ramp up on javascript
- 
- 🍒 learn react.js
+ 🍒 ramp up on javascript - react, node.js
  
  🍒 create one-year anni website for boyfriend (i hope he doesn't see this! ;))
 
