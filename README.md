@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-@josephinew-blue?style=flat&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/josephine-w/)](https://www.linkedin.com/in/josephine-w/)
 
-Nice to meet you! I'm currently a Computing and Financial Management Student 💻 @ UWaterloo. I love digital art & am interested in game dev! I'm always learning something new :)
+Nice to meet you! I'm currently a Computer Science 💻 @ UWaterloo. I love digital art & am interested in game dev and data science! I'm always learning something new :)
 
 »»————- ♡ to-do list | 2021 ♡ ————-««
  
