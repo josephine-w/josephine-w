@@ -4,12 +4,6 @@
 
 Nice to meet you! I'm currently a Computer Science 💻 @ UWaterloo. I love digital art & am interested in game dev and data science! I'm always learning something new :)
 
-»»————- ♡ to-do list | 2021 ♡ ————-««
- 
- 🍒 ramp up on javascript - react, node.js
- 
- 🍒 create one-year anni website for boyfriend (i hope he doesn't see this! ;))
-
 <!--
 **josephine-w/josephine-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
