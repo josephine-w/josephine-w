@@ -1,8 +1,11 @@
-## 🌸 JOSEPHINE W. 🌸
+## josephine widjaja 	⸜( *ˊᵕˋ* )⸝
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephine-w/) 
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josephine-widjaja.com/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-@josephinew-blue?style=flat&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/josephine-w/)](https://www.linkedin.com/in/josephine-w/)
 
-Nice to meet you! I'm currently a Computer Science 💻 @ UWaterloo. I am interested in data engineering! I'm always learning something new :)
+cs @ uwaterloo • data engineer
+
+![Alt Text](https://media.giphy.com/media/z1GCtK9MHBcQGnHwYH/giphy.gif)
 
 <!--
 **josephine-w/josephine-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
