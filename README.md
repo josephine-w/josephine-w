@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://josephine-widjaja.com/)
 
 
-cs @ uwaterloo • data engineer
+cs @ uwaterloo • aspiring data engineer!
 
 ![Alt Text](https://media.giphy.com/media/z1GCtK9MHBcQGnHwYH/giphy.gif)
 
